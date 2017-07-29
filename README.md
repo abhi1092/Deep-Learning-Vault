@@ -1,2 +1,2 @@
 # Deep-Learning-Vault
-A collection of videos, blogs, slides and research paper of deep learning and AGI 
+A collection of videos, blogs, slides and research paper related deep learning and AGI 
