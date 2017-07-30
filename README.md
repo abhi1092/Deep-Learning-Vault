@@ -12,7 +12,10 @@ A collection of videos, blogs, slides and research paper related deep learning a
 [CS224d-2016 Deep NLP by Richard Socher](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 ## Research Paper
 ## Blog
-[Colah's Blog: Neural Networks (General), RNN and CNN](http://colah.github.io/)
+[Colah's Blog: Neural Networks (General), RNN and CNN](http://colah.github.io/)  
+[Distill: Attention and Augmented Neural Networks, Misc](https://distill.pub/)
 ### RNN
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 ### CNN
+[The Nature Conservancy Fisheries Monitoring Competition, 1st Place Winner's Interview: Team 'Towards Robust-Optimal Learning of Learning'](http://blog.kaggle.com/2017/07/07/the-nature-conservancy-fisheries-monitoring-competition-1st-place-winners-interview-team-towards-robust-optimal-learning-of-learning/)  
+[Kaggle winner's interview](http://blog.kaggle.com/category/winners-interviews/)
