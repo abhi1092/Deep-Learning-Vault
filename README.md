@@ -11,9 +11,11 @@ A collection of videos, blogs, slides and research paper related deep learning a
 ### Natural Language Processing
 [CS224d-2016 Deep NLP by Richard Socher](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 ## Research Paper
-## Blog
+## Blogs
 [Colah's Blog: Neural Networks (General), RNN and CNN](http://colah.github.io/)  
 [Distill: Attention and Augmented Neural Networks, Misc](https://distill.pub/)
+[Apple Machine learning Journal(Siri)](https://machinelearning.apple.com/)
+[Mahine Thoughts](https://machinethoughts.wordpress.com/)
 ### RNN
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 ### CNN
