@@ -16,8 +16,9 @@ A collection of videos, blogs, slides and research paper related deep learning a
 [Distill: Attention and Augmented Neural Networks, Misc](https://distill.pub/)  
 [Apple Machine learning Journal(Siri)](https://machinelearning.apple.com/)  
 [Mahine Thoughts](https://machinethoughts.wordpress.com/)  
-### RNN
+### NLP
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-### CNN
+[Blogs by Sebastien Ruder on NLP](http://ruder.io/)
+### Computer Vision
 [The Nature Conservancy Fisheries Monitoring Competition, 1st Place Winner's Interview: Team 'Towards Robust-Optimal Learning of Learning'](http://blog.kaggle.com/2017/07/07/the-nature-conservancy-fisheries-monitoring-competition-1st-place-winners-interview-team-towards-robust-optimal-learning-of-learning/)  
 [Kaggle winner's interview](http://blog.kaggle.com/category/winners-interviews/)
